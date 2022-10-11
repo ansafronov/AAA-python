@@ -1,0 +1,1 @@
+{"$id":"1","currentDateTime":"2010-10-11T16:12Z","utcOffset":"00:00:00","isDayLightSavingsTime":false,"dayOfTheWeek":"Tuesday","timeZoneName":"UTC","currentFileTime":133099783601886629,"ordinalDate":"2010-284","serviceResponse":null} 
